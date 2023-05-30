@@ -1,0 +1,22 @@
+2023-05-30 14:59:43.082 EDT [4893] LOG:  starting PostgreSQL 14.8 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 12.2.0, 64-bit
+2023-05-30 14:59:43.082 EDT [4893] LOG:  listening on IPv6 address "::1", port 5432
+2023-05-30 14:59:43.082 EDT [4893] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2023-05-30 14:59:43.084 EDT [4893] LOG:  listening on Unix socket "/home/ian/yesod-starter/.s.PGSQL.5432"
+2023-05-30 14:59:43.086 EDT [4894] LOG:  database system was shut down at 2023-05-30 14:58:40 EDT
+2023-05-30 14:59:43.088 EDT [4893] LOG:  database system is ready to accept connections
+2023-05-30 15:01:33.623 EDT [4893] LOG:  received fast shutdown request
+2023-05-30 15:01:33.634 EDT [4893] LOG:  aborting any active transactions
+2023-05-30 15:01:33.635 EDT [4893] LOG:  background worker "logical replication launcher" (PID 4900) exited with exit code 1
+2023-05-30 15:01:33.635 EDT [4895] LOG:  shutting down
+2023-05-30 15:01:33.644 EDT [4893] LOG:  database system is shut down
+2023-05-30 15:01:47.788 EDT [5258] LOG:  starting PostgreSQL 14.8 on x86_64-pc-linux-gnu, compiled by gcc (GCC) 12.2.0, 64-bit
+2023-05-30 15:01:47.788 EDT [5258] LOG:  listening on IPv6 address "::1", port 5432
+2023-05-30 15:01:47.788 EDT [5258] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2023-05-30 15:01:47.790 EDT [5258] LOG:  listening on Unix socket "/home/ian/yesod-starter/.s.PGSQL.5432"
+2023-05-30 15:01:47.792 EDT [5259] LOG:  database system was shut down at 2023-05-30 15:01:33 EDT
+2023-05-30 15:01:47.795 EDT [5258] LOG:  database system is ready to accept connections
+2023-05-30 15:10:30.785 EDT [5258] LOG:  received fast shutdown request
+2023-05-30 15:10:30.797 EDT [5258] LOG:  aborting any active transactions
+2023-05-30 15:10:30.798 EDT [5258] LOG:  background worker "logical replication launcher" (PID 5265) exited with exit code 1
+2023-05-30 15:10:30.798 EDT [5260] LOG:  shutting down
+2023-05-30 15:10:30.806 EDT [5258] LOG:  database system is shut down
